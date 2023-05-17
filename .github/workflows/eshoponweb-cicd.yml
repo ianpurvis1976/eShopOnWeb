@@ -9,7 +9,7 @@ env:
   LOCATION: ukwest
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 25740866-9cc2-41ac-b6bf-f9b505e76d23
-  WEBAPP-NAME: az400-webapp-NAME
+  WEBAPP-NAME: az400-webapp-IanPurvis
 
 
 jobs:
